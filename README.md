@@ -1,5 +1,4 @@
 # Functioning-Roller-Coaster
------------------------------------------------------------------------------------
 ![alt text](https://github.com/AndyTQ/Functioning-Roller-Coaster/blob/master/docs/Logo.png?raw=true)
 -----------------------------------------------------------------------------------
 - This repo only features scripting component right now. The full asset folder will be uploaded in the future.
