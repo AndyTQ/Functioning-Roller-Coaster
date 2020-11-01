@@ -6,4 +6,11 @@
 - See the latest build at https://github.com/AndyTQ/Functioning-Roller-Coaster/releases
 
 # Screenshots
+### Tutorial
 ![alt text](./demo/tutorial.png)
+### Editing a function
+![alt text](./demo/editing2.png)
+### Passing a stage
+![alt text](./demo/scoring.png)
+### Riding the roller coaster
+![alt text](./demo/running.png)
