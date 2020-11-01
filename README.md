@@ -6,11 +6,11 @@ facilitate secondary school students to learn math-related materials in a game-b
 
 The whole game is for educational purpose and is not for commercial use.
 
-
 ## Notes
 - This repository only features scripting component right now.
 - This repository is migrated from Unity Collab. 
 - See the latest build at https://github.com/AndyTQ/Functioning-Roller-Coaster/releases
+- I haven't optimize & test the for all kinds of resolutions yet so there might be some issue with scaling. Currently for this game to run properly it's recommended to have a 16:9 screen supporting 1080p or above.
 
 # Screenshots
 ### Tutorial
@@ -22,6 +22,5 @@ The whole game is for educational purpose and is not for commercial use.
 ### Riding the roller coaster on a discontinuous function.
 ![alt text](./demo/running.png)
 
-# Website
+# Website & Download
 This project has an associated website with it at https://frcgame.tumblr.com. Feel free to discover the related educational research behind this video game!
-
