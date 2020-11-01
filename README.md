@@ -21,3 +21,7 @@ The whole game is for educational purpose and is not for commercial use.
 ![alt text](./demo/scoring.png)
 ### Riding the roller coaster on a discontinuous function.
 ![alt text](./demo/running.png)
+
+# Website
+This project has an associated website with it at https://frcgame.tumblr.com. Feel free to discover the related educational research behind this video game!
+
