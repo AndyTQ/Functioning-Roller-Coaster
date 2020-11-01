@@ -6,4 +6,4 @@
 - See the latest build at https://github.com/AndyTQ/Functioning-Roller-Coaster/releases
 
 # Screenshots
-![alt text](./demo/tutorial.png =600x)
+![alt text](./demo/tutorial.png)
