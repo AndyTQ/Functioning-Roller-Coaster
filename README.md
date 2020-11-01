@@ -23,4 +23,4 @@ The whole game is for educational purpose and is not for commercial use.
 ![alt text](./demo/running.png)
 
 # Website & Download
-This project has an associated website with it at https://frcgame.tumblr.com. Feel free to discover the related educational research behind this video game!
+This project has an associated website with it at https://frcgame.tumblr.com. Feel free to discover the related educational research behind this video game or even download the game!
