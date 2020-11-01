@@ -12,5 +12,5 @@
 ![alt text](./demo/editing2.png)
 ### Passing a stage
 ![alt text](./demo/scoring.png)
-### Riding the roller coaster
+### Riding the roller coaster on a discontinuous function.
 ![alt text](./demo/running.png)
