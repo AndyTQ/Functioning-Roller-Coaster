@@ -7,10 +7,11 @@ facilitate secondary school students to learn math-related materials in a game-b
 The whole game is for educational purpose and is not for commercial use.
 
 -----------------------------------------------------------------------------------
-- This repository only features scripting component right now. 
+## Notes
+- This repository only features scripting component right now.
 - This repository is migrated from Unity Collab. 
 - See the latest build at https://github.com/AndyTQ/Functioning-Roller-Coaster/releases
-
+-----------------------------------------------------------------------------------
 # Screenshots
 ### Tutorial
 ![alt text](./demo/tutorial.png)
